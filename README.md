@@ -1,7 +1,7 @@
 # securityDoorKnob
-Who needs a key? while we all have a unique face. This is my small experiment to build a housing security system. There are several security notes i wrote on this [blog (tumblr)](https://sectrakul.tumblr.com/) including the progress of making this project and other security related blogs.
-
 A personal project for a cool doorknob inside your room by having a facial recognition built into the doorknob. 
+
+Who needs a key? while we all have a unique face. This is my small experiment to build a housing security system. There are several security notes i wrote on this [blog (tumblr)](https://sectrakul.tumblr.com/) including the progress of making this project and other security related blogs.
 - The project is implemented and tested on Raspberry Pi and Arduino UNO with camera connecting with a electronic solenoid lock. 
   - Raspbian on Raspberry pi
   - Pyfirmata to control digital pins on Arduino board
