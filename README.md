@@ -1,5 +1,5 @@
 # securityDoorKnob
-A personal project for a cool doorknob inside your room by having a facial recognition built into the doorknob. 
+A cool doorknob inside your room by having a facial recognition built into the door lock. 
 
 ## What is this? It is a cool doorknob
 Who needs a key? while we all have a unique face. This is my small experiment to build a housing security system. There are several security notes i wrote on this [blog (tumblr)](https://sectrakul.tumblr.com/) including the progress of making this project and other security related blogs.
